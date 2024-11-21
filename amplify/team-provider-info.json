@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-genaibloggenerator-dev-7f06d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::409489027555:role/amplify-genaibloggenerator-dev-7f06d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::409489027555:role/amplify-genaibloggenerator-dev-7f06d-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-genaibloggenerator-dev-7f06d-deployment",
+      "UnauthRoleName": "amplify-genaibloggenerator-dev-7f06d-unauthRole",
+      "StackName": "amplify-genaibloggenerator-dev-7f06d",
+      "StackId": "arn:aws:cloudformation:us-east-1:409489027555:stack/amplify-genaibloggenerator-dev-7f06d/6857a5c0-a7d2-11ef-a678-0affded6321d",
+      "AmplifyAppId": "d2tjtqfme07563"
+    }
+  }
+}
